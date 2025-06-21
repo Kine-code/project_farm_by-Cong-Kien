@@ -1,12 +1,12 @@
-* Project shop online products from the farm
-* Programming language used: PHP 5.6 + Smarty Templates
+* Dự án shop online sản phẩm từ trang trại
+* Ngôn ngữ lập trình sử dụng: PHP 5.6 + Smarty Templates
 
-* Installation Instructions:
- + Go to the directory "public/database" retrieve database of source code and import phpmyadmin
- + Go to the directory "models/config.php" and "admin/models/config.php" to install configuration
- + If error css js, choose the directory "smarty/templates/head.tpl" edit the basic path
+* Hướng dẫn cài đặt:
++ Vào thư mục "public/database" lấy database của source code và import phpmyadmin
++ Vào thư mục "models/config.php" và "admin/models/config.php" để cài đặt configuration
++ Nếu lỗi css js, chọn thư mục "smarty/templates/head.tpl" chỉnh sửa đường dẫn cơ bản
 
-* User Management Website: 
+* Website quản lý người dùng:
     + Url login: http://localhost/project_farm/admin/
     + Username: admin
     + Password: admin123
